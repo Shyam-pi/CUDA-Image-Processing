@@ -39,7 +39,7 @@ To apply a filter to an image, please follow the next steps:
 
 ```./a.out path_to_image_input path_to_image_output filter_arg```
 
-### Table 1: Filters and their arguments
+### Table: Filters and their arguments
 |      Filter     |  Filter Arg |
 |:---------------:|:-----------:|
 | Horizontal Flip | hflip       |
