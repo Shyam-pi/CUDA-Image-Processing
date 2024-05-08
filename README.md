@@ -1,6 +1,6 @@
 # CUDA-Image-Processing
 
-This repo consists of various image processing pipelines for Parallel Computing using CUDA. It is inspired from this [repo](https://github.com/thomasplantin/cuda-image-processing/tree/master)
+This repo consists of various image processing pipelines for Parallel Computing using CUDA. The codes from this repo are inspired from this [repo](https://github.com/thomasplantin/cuda-image-processing/tree/master)
 
 ### Test Cases
 
