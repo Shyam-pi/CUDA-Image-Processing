@@ -1,6 +1,6 @@
 # CUDA-Image-Processing
 
-This repo consists of various image processing pipelines for Parallel Computing using CUDA. The codes from this repo are inspired from this [repo](https://github.com/thomasplantin/cuda-image-processing/tree/master)
+This repo consists of various image processing pipelines for Parallel Computing using CUDA. By harnessing the power of CUDA, it aims to accelerate various image processing tasks, such as gaussian blurring, edge detection etc., by parallelizing computations on GPU architectures.
 
 ### Test Cases
 
